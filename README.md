@@ -76,6 +76,7 @@ streamlit run app.py
   <img src="screenshots/transR1.png" width="900">
 </p>
 
+### Translated
 <p align="center">
   <img src="screenshots/transR2.png" width="900">
 </p>
